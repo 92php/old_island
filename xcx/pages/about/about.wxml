@@ -1,0 +1,4 @@
+<image class="about"  />
+ <navigator class="nav" target="miniProgram" app-id="" open-type="navigate">
+ <image class="vendor" src="/images/my/vendor.png"></image>
+ </navigator> 
